@@ -31,8 +31,8 @@ Run the script from your terminal, pointing it to the directory
 containing your media files.
 
 * Commands:
-- Windows: python SASI-CaTS_a0.1.py C:/path/to/your/media
-- Linux/Mac: python SASI-CaTS_a0.1.py /path/to/your/media
+  * Windows: python SASI-CaTS_a0.1.py C:/path/to/your/media
+  * Linux/Mac: python SASI-CaTS_a0.1.py /path/to/your/media
 
 3. Connect Your Vintage Machine
 
@@ -49,14 +49,14 @@ containing your media files.
 
 --- CLIENT RECOMMENDATIONS ---
 * Browser:
-- Mac OS 9: Classilla
-- Mac OS X (PPC): TenFourFox
-- Windows XP: MyPal
+  * Mac OS 9: Classilla
+  * Mac OS X (PPC): TenFourFox
+  * Windows XP: MyPal
 * Media Player:
-- Mac OS 9: Built-in QuickTime player.
-- Mac OS X / Win: An older, compatible version of VLC.
+  * Mac OS 9: Built-in QuickTime player.
+  * Mac OS X / Win: An older, compatible version of VLC.
 
---- APPLET GUIDE ---
+--- APPLETS ---
 * Homepage
   * The central navigation hub with a FrogFind! search bar and applet links.
 
