@@ -89,7 +89,7 @@ containing your media files.
 
 * iComfy
   * An API client for a local or LAN ComfyUI instance.
-    * Behavior: Generate AI images by writing prompts and selecting models.
+    * Behavior: Generate AI images by writing prompts and selecting models. Click the image to open in slideshow view. Click the image in slideshow view to open it directly.
     * Configuration: Edit the COMFYUI_IP variable to connect to a remote
       ComfyUI instance (e.g., "192.168.1.50:8188").
 
