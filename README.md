@@ -58,37 +58,37 @@ containing your media files.
 
 --- APPLET GUIDE ---
 * Homepage
-The central navigation hub with a FrogFind! search bar and applet links.
+  * The central navigation hub with a FrogFind! search bar and applet links.
 
 * Files
-A paginated file browser for your media library.
-- Controls: Use the "Mount" dropdown to switch between drive roots.
-- Integration: Launches iStream for videos and iMagery for directories.
+  * A paginated file browser for your media library.
+    * Controls: Use the "Mount" dropdown to switch between drive roots.
+    * Integration: Launches iStream for videos and iMagery for directories.
 
 * iMagery
-A grid-based image gallery.
-- Controls: "Slideshow" and "Random Show" softkeys start a fullscreen
-slideshow. "Recursive" versions include all subdirectories.
+  * A grid-based image gallery.
+    * Controls: "Slideshow" and "Random Show" softkeys start a fullscreen
+      slideshow. "Recursive" versions include all subdirectories.
 
 * iStream
-The core video transcoding and streaming applet.
-- Behavior: Transcodes videos to a highly compatible format.
-- Target Format: MPEG-4 video and ADPCM audio in a .mov container,
-at ~346x260 resolution and 19 frames per second.
-- Controls: Manage the queue, prioritize files, and play completed videos.
+  * The core video transcoding and streaming applet.
+    * Behavior: Transcodes videos to a highly compatible format.
+    * Target Format: MPEG-4 video and ADPCM audio in a .mov container,
+      at ~346x260 resolution and 19 frames per second.
+    * Controls: Manage the queue, prioritize files, and play completed videos.
 
 * iTube
-A simple front-end for yt-dlp to download YouTube videos.
-- Behavior: Downloads videos up to 360p to the _itube_sasi folder.
-- Controls: "View Queue" shows download progress.
+  * A simple front-end for yt-dlp to download YouTube videos.
+    * Behavior: Downloads videos up to 360p to the _itube_sasi folder.
+    * Controls: "View Queue" shows download progress.
 
 * iGem
-A terminal-style chat client for the Google Gemini API.
-- Configuration: To enable, insert your API key into the
-GEMINI_API_KEY variable in the script.
+  * A terminal-style chat client for the Google Gemini API.
+    * Configuration: To enable, insert your API key into the
+      GEMINI_API_KEY variable in the script.
 
 * iComfy
-An API client for a local or LAN ComfyUI instance.
-- Behavior: Generate AI images by writing prompts and selecting models.
-- Configuration: Edit the COMFYUI_IP variable to connect to a remote
-ComfyUI instance (e.g., "192.168.1.50:8188").
+  * An API client for a local or LAN ComfyUI instance.
+    * Behavior: Generate AI images by writing prompts and selecting models.
+    * Configuration: Edit the COMFYUI_IP variable to connect to a remote
+      ComfyUI instance (e.g., "192.168.1.50:8188").
