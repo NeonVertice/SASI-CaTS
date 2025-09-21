@@ -3,9 +3,9 @@
 SASI-CaTS (Software Applet & Search Interface - Caching auto-Transcoding Server)
 
 A Python-based web server designed to serve a modern multimedia library to
-vintage computers. It works by transcoding media on-the-fly into legacy-
-compatible formats and providing a simple, lightweight web interface that
-works on period-appropriate browsers.
+vintage computers. It works by transcoding media on-the-fly into 
+legacy-compatible formats and providing a simple, lightweight web 
+interface that works on period-appropriate browsers.
 
 ========================================
 
