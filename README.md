@@ -26,7 +26,7 @@ source sasi_env/bin/activate
 
 pip install requests Pillow websocket-client
 
-2. Start the Server
+2. Start the Server:
 Run the script from your terminal, pointing it to the directory
 containing your media files.
 
